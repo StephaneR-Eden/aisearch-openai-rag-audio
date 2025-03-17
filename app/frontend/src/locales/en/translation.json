@@ -1,13 +1,13 @@
 {
     "app": {
-        "title": "Talk to your data",
-        "footer": "Built with Azure AI Search + Azure OpenAI",
+        "title": "Teechnical support Eden Innovations",
+        "footer": "This is a test. If the AI stops talking, say 'Hello' to wake it up.",
         "stopRecording": "Stop recording",
         "startRecording": "Start recording",
         "stopConversation": "Stop conversation"
     },
     "status": {
-        "notRecordingMessage": "Ask anything about Contoso employee benefits",
+        "notRecordingMessage": "Ask your question about OPTIMA and its modules",
         "conversationInProgress": "Conversation in progress"
     },
     "history": {
