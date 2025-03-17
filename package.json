@@ -1,5 +1,17 @@
 {
   "dependencies": {
-    "tailwindcss-animate": "^1.0.7"
+    "@radix-ui/react-slot": "^1.1.2",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.5.0",
+    "i18next": "^24.2.3",
+    "i18next-browser-languagedetector": "^8.0.4",
+    "i18next-http-backend": "^3.0.2",
+    "lucide-react": "^0.482.0",
+    "react-i18next": "^15.4.1",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.8.2"
   }
 }
