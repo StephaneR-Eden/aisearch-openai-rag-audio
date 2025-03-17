@@ -1,7 +1,7 @@
 {
     "app": {
         "title": "Support technique Eden Innovations",
-        "footer": "Ceci est un test - L'IA arrête parfois de parler : Dites 'Bonjour' pour la réveiller",
+        "footer": "Ceci est un test - L'IA arrête parfois de parler : Dites 'Hello' pour la réveiller",
         "stopRecording": "Arrêter l'enregistrement",
         "startRecording": "Commencer l'enregistrement",
         "stopConversation": "Arrêter la conversation"
