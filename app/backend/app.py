@@ -60,6 +60,9 @@ async def create_app():
         1. Always use the 'search' tool to check the knowledge base before answering a question. 
         2. Always use the 'report_grounding' tool to report the source of information from the knowledge base. 
         3. Produce an answer that's as short as possible. If the answer isn't in the knowledge base, say you don't know.
+        4. Once you gave an answer to the question, do not provide more information unless asked.
+        5. If the user asks you to stop, stop talking.
+        6. If the user asks you to repeat, repeat the last sentence you said.
     """.strip()
 
     attach_rag_tools(rtmt,
